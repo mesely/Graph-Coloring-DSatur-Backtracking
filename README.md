@@ -42,4 +42,12 @@ Efforts have been made to optimize the algorithms, particularly focusing on redu
 
 ## Results
 
-The detailed results of the experiments, including performance metrics and algorithm comparisons, are documented in the report. 
+The detailed results of the experiments, including performance metrics and algorithm comparisons, are documented in the report.
+
+## Contributors
+
+This project was developed and completed by the following contributors:
+
+- **İpek Uzun** - (https://github.com/ipek-uzun)
+- **Selman Yılmaz** - (https://github.com/mesely)
+
